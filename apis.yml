@@ -1,20 +1,56 @@
 aid: useparrot
-name: Useparrot
-description: Useparrot is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Parrot
+description: Parrot (useparrot.com) is a Y Combinator-backed startup (Spring 2026 batch) building
+  an agentic, all-in-one management platform for collision and auto repair shops. Its AI agents
+  automate estimate auditing, parts procurement (voice agents that compare supplier quotes),
+  insurance claim follow-ups, invoice reconciliation, tax filing, payments and invoicing,
+  inventory management, team coordination, and inbound call handling, and it integrates with
+  CCC ONE, Audatex, and Mitchell 1. Parrot does not currently publish a public API or developer
+  program.
 url: https://raw.githubusercontent.com/api-evangelist/useparrot/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.useparrot.com/favicon.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Artificial Intelligence
+- Agents
+- Auto Repair
+- Collision Repair
+- Automotive
+- Insurance Claims
+- Shop Management
 apis: []
+common:
+- type: DomainSecurity
+  url: security/useparrot-domain-security.yml
+- type: Website
+  url: https://www.useparrot.com/
+- type: LLMsTxt
+  url: llms/useparrot-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com

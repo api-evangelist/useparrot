@@ -1,0 +1,15 @@
+# Parrot
+
+> Parrot (useparrot.com) is a Y Combinator-backed startup (Spring 2026 batch) building an agentic, all-in-one management platform for collision and auto repair shops. AI agents automate estimate auditing, parts procurement, insurance claim follow-ups, invoice reconciliation, tax filing, payments, inventory, team coordination, and inbound call handling. It integrates with CCC ONE, Audatex, and Mitchell 1.
+
+Parrot does not currently publish a public API, developer documentation, or client SDKs. The application lives at app.useparrot.com (login required). Footer links to /pricing, /help, /security, /status, and /changelog returned 404 at the time of this snapshot (2026-07-21).
+
+## Company
+
+- [Website](https://www.useparrot.com/): Marketing site and demo booking
+- [Y Combinator profile](https://www.ycombinator.com/companies/useparrot): Batch, founders, and company facts
+- [App](https://app.useparrot.com/login): Product login (customers only)
+
+## Catalog
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/useparrot/refs/heads/main/apis.yml): API Evangelist network profile for Parrot
