@@ -8,6 +8,17 @@ description: Parrot (useparrot.com) is a Y Combinator-backed startup (Spring 202
   CCC ONE, Audatex, and Mitchell 1. Parrot does not currently publish a public API or developer
   program.
 url: https://raw.githubusercontent.com/api-evangelist/useparrot/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
