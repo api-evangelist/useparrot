@@ -1,0 +1,27 @@
+# Front Door AI Index — useparrot — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: useparrot
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.useparrot.com
+  final_host: www.useparrot.com
+  ownership: own
+  owner: useparrot
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 8
+  host_score: 8
+  density: 7.48
+  words: 1070
+  tiers:
+    agentic: 2
+    core: 6
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 6
+    agentic: 2
+    agent: 1
